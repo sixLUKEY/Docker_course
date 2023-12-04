@@ -11,4 +11,6 @@ docker ps -a  //lists all containers
 
 docker rm *insert container name or ID*  //removes container
 
+docker rmi *insert image name here*  //removes image
+
 ```
