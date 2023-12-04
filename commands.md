@@ -9,4 +9,6 @@ docker ps  //lists running containers
 
 docker ps -a  //lists all containers
 
+docker rm *insert container name or ID*  //removes container
+
 ```
